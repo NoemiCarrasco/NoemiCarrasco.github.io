@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+  <div class="container">
+  <div class="jumbotron">
+    <h1>JUMBOTRON</h1> 
+    <p>This is an example of a jumbotron. A jumbotron indicates a big box for calling extra attention to some special content or information.</p> 
+  </div>
+  <p>This is some text.</p> 
+  <p>This is another text.</p> 
+</div>
+  </body>
+</html>
